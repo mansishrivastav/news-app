@@ -10,7 +10,6 @@ const Body = () => {
     <div>
       <Header/>
       <HeadlineCard/>
-      <Pagination/>
     </div>
   )
 }
