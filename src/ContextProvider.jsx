@@ -14,7 +14,7 @@ export const ContextProvider = ({ children }) => {
 
     const headlinesUrl = "https://newsapi.org/v2/top-headlines";
     const categoryUrl = "https://newsapi.org/v2/everything";
-    const apiKey = "2a5bbc683bed4a7a8e59ed5d0b3d0017";
+    const apiKey = "7367fa311caf4385b80ad9255870126e";
     const countries = ['in', 'us', 'nz'];
 
     //The news cards are shown when the app gets started
